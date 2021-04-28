@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="模块/接口A">
+        <classes>
+            <class name="com.futureloan.testcases.Login"/>
+        </classes>
+
+    </test>
+
+</suite>
+
+<!--<suite name="All Test Suite">-->
+<!--<test verbose="2" preserve-order="true" name="D:/Candy/Code/JavaBase_Maven/testng2.xml">-->
+<!--    <classes>-->
+<!--        <class name="com.lemon.testng.TestNGParameter"/>-->
+<!--&lt;!&ndash;        <parameter name="type" value="chrome"></parameter>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="sheetIndex" value="1"></parameter>&ndash;&gt;-->
+<!--    </classes>-->
+
+<!--</test>-->
+<!--<parameter name="type" value="chrome"></parameter>-->
+<!--<parameter name="sheetIndex" value="1"></parameter>-->
+<!--</suite>-->
